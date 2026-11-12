@@ -1,1 +1,5 @@
 UST
+
+Problem Statement 2: Adding and Committing Changes
+Create a new file and add some content to it. 
+Use git add to stage the changes and git commit to commit them to the repository
